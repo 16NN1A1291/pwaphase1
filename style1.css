@@ -1,0 +1,69 @@
+body{
+  background: bisque;
+}
+.maindiv{
+  background: aqua;
+  margin:3%;
+  border-radius: 5%;
+  height: 29%;
+  display: flex;
+
+}
+.leftdiv{
+  background:orange;
+  margin: 3%;
+  border-radius: 2%;
+  box-shadow: 3px 3px 3px 3px;
+  text-align: center;
+  height:70%;
+  position: fixed;
+  width: 30%;
+  margin-left:-30%;
+}
+.rightdiv{
+  background:pink;
+  margin:3%;
+  border-radius: 2%;
+  width: 63%;
+  margin-left:43%;
+}
+img{
+  margin:3%;
+  height: 30%;
+  width: 20%;
+}
+@media screen and (min-width:320px) and (max-width:400px) {
+  body{
+    background:pink;
+    }
+    .maindiv{
+      background:white;
+      margin:3%;
+      border-radius:5%;
+      height: 80%;
+      width: 100%;
+      display:inline;
+}
+.leftdiv{
+  background:orange;
+  margin: 3%;
+  border-radius: 2%;
+  box-shadow: 3px 3px 3px 3px;
+  text-align: center;
+  height:70%;
+  position: fixed;
+  width: 50%;
+}
+.rightdiv{
+  background:pink;
+  margin:3%;
+  border-radius: 2%;
+  width: 65%;
+  margin-top:155%;
+}
+img{
+  margin: 3%;
+  height: 30%;
+  width: 20%;
+}
+}

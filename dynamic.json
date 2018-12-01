@@ -1,0 +1,40 @@
+{
+  "career":{
+    "info":"To work in environment where i can utilize my skills and knowledge and also i want to imprve my skills"
+  },
+  "education":[
+    {
+      "Degree":"B.tech(IT)",
+      "Institution":"JNTUK",
+      "Year Of Passing":"2020",
+      "Percentage":"68"
+    },
+    {
+      "Degree":"Inter",
+      "Institution":"Sri Chaitanya",
+      "Year Of Passing":"2016",
+      "Percentage":"70"
+    },
+    {
+      "Degree":"Tenth",
+      "Institution":"Bhashyam High School",
+      "Year Of Passing":"2014",
+      "Percentage":"82"
+    }
+  ],
+  "skills":[
+    {
+      "title":"Platform",
+      "content":"windows,linux"
+    },
+    {
+      "title":"Programming Languages",
+      "content":"c,c++,java,python"
+    },
+    {
+      "title":"Database",
+      "content":"sql,mysql,plsql"
+    }
+  ],
+  "languages":"Telugu,English,Hindi"
+}
